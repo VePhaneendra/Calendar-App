@@ -1,7 +1,7 @@
-# Getting Started with Create React App
+# Calendar Application 
 
 
-
+React-based Calendar Application that enables us to efficiently track communication with companies, ensuring follow-ups are timely and consistent. This tool will provide a centralized platform to log past interactions, plan future communications, and manage the frequency of engagement based on predefined schedules
 ## Available Scripts
 
 In the project directory, you can run:
