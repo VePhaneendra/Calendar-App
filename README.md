@@ -49,8 +49,7 @@ A methodical strategy that prioritized clean code, modular architecture, and an 
 
 ### `Woking `
 
-You said:
-give complete process from scratch , give all codes and commands for this tasK :   
+  
 Technical Assignment: Calendar Application for Communication Tracking
 Objective
 As a company, we aim to maintain strong professional relationships by
