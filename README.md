@@ -5,7 +5,14 @@ React-based Calendar Application that enables us to efficiently track communicat
 ## Available Scripts
 
 In the project directory, you can run:
-
+1. Clone the Repository
+2.     git clone https://github.com/VePhaneendra/Calendar-App.git
+3. Go through project Directory
+4.      cd calendar-app
+5. Install Dependencies
+6.      npm install
+7.  Run the Application
+8.     npm start
 ### `npm start`
 
 Runs the app in the development mode.\
