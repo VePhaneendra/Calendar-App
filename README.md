@@ -13,18 +13,39 @@ In the project directory, you can run:
 6.      npm install
 7.  Run the Application
 8.     npm start
-### `npm start`
+9. Web application open in the system default web browser at localhost : 3000.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+   
+### File architecture
+    dashboard-management/
+    ├── public/
+    ├── src/
+    │   ├── components/
+    │   │   ├── AddCompanyForm.js
+    │   │   ├── Dashboard.js
+    │   │   ├── AddCompany.css
+    │   │   ├── Dashboard.css
+    │   ├── App.js
+    │   ├── index.js
+    │   ├── App.css
+    │   ├── utils/
+    │       └── api.js (for future API integration)
+    ├── README.md
+    ├── package.json
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### Technologies Used
+
+FRONTEND
+ -React.js
+ -JavaScript
+ -CSS Modules
+ -HTML5
+ for Styling the web pages i have used the css flexbox for the layout and alignment
+ 
+A methodical strategy that prioritized clean code, modular architecture, and an engaging user experience was used to build the application. Every feature underwent extensive testing to guarantee seamless operation, and innovative design decisions were made to improve use and aesthetics.
 
 ### `npm run build`
 
